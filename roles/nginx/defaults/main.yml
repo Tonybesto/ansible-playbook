@@ -94,5 +94,8 @@ nginx_log_format: |-
 
 
 enable_nginx_lb: true
-
 load_balancer_is_required: true
+
+#IP mapping for webservers
+Web1: 172.31.93.151
+Web2: 172.31.92.168
