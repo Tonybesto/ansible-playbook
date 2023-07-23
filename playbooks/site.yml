@@ -31,7 +31,7 @@
   #   when: load_balancer_is_required
 
 
-  ---
+---
 - hosts: all
 
 - name: Include dynamic variables
