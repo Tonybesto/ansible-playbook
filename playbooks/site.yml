@@ -32,6 +32,7 @@
 
 
 ---
+
 - hosts: all
 
 - name: Include dynamic variables
