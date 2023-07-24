@@ -29,4 +29,4 @@
      regexp: '(.*enabled.*)'
      replace: '#\1'
          
-  notify: Restart nginx service
+  #notify: Restart nginx service
